@@ -4,5 +4,13 @@
         <link>https://rhettmm-code.github.io/posts/</link>
         <description>All Posts | rhett&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>rhetthj@live.com (rhett)</managingEditor>
-            <webMaster>rhetthj@live.com (rhett)</webMaster><lastBuildDate>Fri, 03 May 2024 17:30:27 &#43;0800</lastBuildDate><atom:link href="https://rhettmm-code.github.io/posts/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>rhetthj@live.com (rhett)</webMaster><lastBuildDate>Fri, 03 May 2024 17:30:27 &#43;0800</lastBuildDate><atom:link href="https://rhettmm-code.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>First Article</title>
+    <link>https://rhettmm-code.github.io/posts/first-article/</link>
+    <pubDate>Fri, 03 May 2024 17:30:27 &#43;0800</pubDate>
+    <author>rhett</author>
+    <guid>https://rhettmm-code.github.io/posts/first-article/</guid>
+    <description><![CDATA[大家好！这是我的第一篇博客 from:rhett date:2024-05-03]]></description>
+</item>
+</channel>
 </rss>
