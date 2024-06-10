@@ -1,9 +1,24 @@
-<urlset
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xhtml="http://www.w3.org/1999/xhtml"
-    ><url>
-            <loc>https://rhettmm-code.github.io/posts/first-article/</loc><lastmod>2024-05-03T17:30:27&#43;08:00</lastmod></url><url>
-            <loc>https://rhettmm-code.github.io/posts/</loc><lastmod>2024-05-03T17:30:27&#43;08:00</lastmod></url><url>
-            <loc>https://rhettmm-code.github.io/</loc><lastmod>2024-05-03T17:30:27&#43;08:00</lastmod></url><url>
-            <loc>https://rhettmm-code.github.io/categories/</loc></url><url>
-            <loc>https://rhettmm-code.github.io/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://rhettmm-code.github.io/jdhislowestprice/</loc>
+    <lastmod>2024-06-09T10:19:24+08:00</lastmod>
+  </url><url>
+    <loc>https://rhettmm-code.github.io/jdhislowestprice/20240609/</loc>
+    <lastmod>2024-06-09T10:19:24+08:00</lastmod>
+  </url><url>
+    <loc>https://rhettmm-code.github.io/</loc>
+    <lastmod>2024-06-09T10:19:24+08:00</lastmod>
+  </url><url>
+    <loc>https://rhettmm-code.github.io/posts/first-article/</loc>
+    <lastmod>2024-05-03T17:30:27+08:00</lastmod>
+  </url><url>
+    <loc>https://rhettmm-code.github.io/posts/</loc>
+    <lastmod>2024-05-03T17:30:27+08:00</lastmod>
+  </url><url>
+    <loc>https://rhettmm-code.github.io/categories/</loc>
+  </url><url>
+    <loc>https://rhettmm-code.github.io/tags/</loc>
+  </url>
+</urlset>
