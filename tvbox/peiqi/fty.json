@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "🐖小猪佩齐🐖",
+      "name": "🐷小猪佩齐🐖",
       "type": 3,
       "api": "csp_DouDou",
       "indexs": 1,
@@ -619,7 +619,7 @@
 
   "lives": [
     {
-      "name": "配齐TV",
+      "name": "🐷佩齐TV",
       "type": 0,
       "url": "./live.txt",
       "playerType": 1,
