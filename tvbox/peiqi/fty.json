@@ -627,6 +627,14 @@
       "logo": "https://epg.iill.top/logo/{name}.png"
     },
     {
+      "name": "🐷佩齐TV2",
+      "type": 0,
+      "url": "./live2.txt",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.iill.top/logo/{name}.png"
+    },
+    {
       "name": "IPV4",
       "type": 0,
       "url": "./lib/multicast.txt",
