@@ -621,7 +621,7 @@
     {
       "name": "🐷佩齐TV-mix",
       "type": 0,
-      "url": "./iptv/hebei/telecom.txt",
+      "url": "./iptv/hubei/telecom.txt",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.iill.top/logo/{name}.png"
@@ -629,7 +629,7 @@
     {
       "name": "🐷佩齐TV-hubei-telecom",
       "type": 0,
-      "url": "./iptv/hebei/telecom.txt",
+      "url": "./iptv/hubei/telecom.txt",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.iill.top/logo/{name}.png"
