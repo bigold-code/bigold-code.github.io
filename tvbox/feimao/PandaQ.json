@@ -531,12 +531,66 @@
   ],
   "lives": [
     {
-      "name": "live",
+      "name": "🐷佩齐TV-mix",
       "type": 0,
+      "url": "./iptv/hebei/telecom.txt",
       "playerType": 1,
-      "url": "",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.iill.top/logo/{name}.png"
+    },
+    {
+      "name": "🐷佩齐TV-hubei-telecom",
+      "type": 0,
+      "url": "./iptv/hebei/telecom.txt",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.iill.top/logo/{name}.png"
+    },
+    {
+      "name": "🐷佩齐TV-guangdong-telecom",
+      "type": 0,
+      "url": "./iptv/guangdong/telecom.txt",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.iill.top/logo/{name}.png"
+    },
+    {
+      "name": "🐷佩齐TV-guangdong-mobile",
+      "type": 0,
+      "url": "./iptv/guangdong/mobile.txt",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.iill.top/logo/{name}.png"
+    },
+    {
+      "name": "🐷佩齐TV-guangdong-mix",
+      "type": 0,
+      "url": "./iptv/guangdong/guangdong.txt",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.iill.top/logo/{name}.png"
+    },
+    {
+      "name": "IPV4",
+      "type": 0,
+      "url": "./lib/multicast.txt",
+      "playerType": 1,
+      "logo": "https://ghfast.top/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png"
+    },
+    {
+      "name": "iptv_alive",
+      "type": 0,
+      "url": "https://ghfast.top/raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.m3u",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.iill.top/logo/{name}.png"
+    },
+    {
+      "name": "平台直播",
+      "type": 0,
+      "url": "http://tv.iill.top/m3u/Live",
+      "ua": "okhttp/3.15",
+      "playerType": 2
     }
   ]
 }
