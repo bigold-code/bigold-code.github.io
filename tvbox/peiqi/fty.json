@@ -619,17 +619,33 @@
 
   "lives": [
     {
-      "name": "🐷佩齐TV",
+      "name": "🐷佩齐TV-hubei-telecom",
       "type": 0,
-      "url": "./live.txt",
+      "url": "./iptv/hebei/telecom.txt",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.iill.top/logo/{name}.png"
     },
     {
-      "name": "🐷佩齐TV2",
+      "name": "🐷佩齐TV-guangdong-telecom",
       "type": 0,
-      "url": "./live2.txt",
+      "url": "./iptv/guangdong/telecom.txt",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.iill.top/logo/{name}.png"
+    },
+    {
+      "name": "🐷佩齐TV-guangdong-mobile",
+      "type": 0,
+      "url": "./iptv/guangdong/mobile.txt",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.iill.top/logo/{name}.png"
+    },
+    {
+      "name": "🐷佩齐TV-guangdong-mix",
+      "type": 0,
+      "url": "./iptv/guangdong/guangdong.txt",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.iill.top/logo/{name}.png"
