@@ -2,10 +2,11 @@
   "spider": "./fty.jar;md5;3d161697458ecbcd2651a749db761ba1",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
+  "logo": "./pic/peiqi.png",
   "sites": [
     {
       "key": "csp_douban",
-      "name": "🌕┃豆瓣┃热播",
+      "name": "🐖小猪佩齐🐷",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
